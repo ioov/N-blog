@@ -1,3 +1,3 @@
 ### nodejs
 
-nodejs写的blog
+仿照写的blog
